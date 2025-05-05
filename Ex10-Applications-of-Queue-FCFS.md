@@ -74,7 +74,7 @@ int main() {
         scanf("%d", &burst_time[i]);
     }
 
-    findavgTime(processes, n, burst_time);
+    findavgTime(processes, n, burst_time);  
     
     return 0;
 }
