@@ -93,7 +93,7 @@ int main() {
                 display(&pq);
                 break;
             case 4:
-                exit(0);
+                exit(0);  
             default:
                 printf("Invalid choice! Try again.\n");
         }
